@@ -54,9 +54,9 @@
   <a href="https://codeforces.com/profile/ishikagupta09" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="40" height="30" />
   </a>
-  <a href="https://www.leetcode.com/ish_g09" target="_blank">
+  <!-- <a href="https://www.leetcode.com/ish_g09" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="30" />
-  </a>
+  </a> -->
   <a href="https://auth.geeksforgeeks.org/user/ish_g09" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" width="40" height="30" />
   </a>
