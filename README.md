@@ -1,32 +1,34 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=2000&color=FF61A6&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ishika+Gupta!&repeat=0" alt="Typing Intro" />
-</h1>
-
+<h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=2000&color=FF61A6&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ishika+Gupta!&repeat=0" alt="Typing Intro" /> </h1>
 
 <h3 align="center">
-  <b>Building with Code  &nbsp;|&nbsp; Solving with DSA  &nbsp;|&nbsp; Exploring AI </b>
+  <b> ✉️ Building with Code &nbsp;|&nbsp; Solving with DSA &nbsp;|&nbsp; Exploring AI 🤖 </b>
 </h3>
 
 
 
 
 
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ish-g09&label=Profile%20views&color=ff69b4&style=flat" alt="ish-g09" />
-</p> -->
-
 ---
+
 ## 🌱 About Me
 
-* 🎓 Pre-final year **Computer Science undergraduate @ IIIT Gwalior**
-* 💼 Previously **Data Science Intern @ Aivion Limited**
-* 🧠 **450+ DSA problems solved**, with a focus on problem-solving and software engineering
-* 🏆 **NXP Women in Technology Scholar** — Top 75 nationally
-* 🤖 Exploring **AI/GenAI, backend development, and practical applications**
-* ✉️ **[ig.valiente09@gmail.com](mailto:ig.valiente09@gmail.com)**
+- 🎓 Pre-final year **Computer Science undergraduate @ IIIT Gwalior**
+- 💼 Previously **Data Science Intern @ Aivion Limited**
+- 🧠 **450+ DSA problems solved**, with a focus on problem-solving and software engineering
+- 🏆 **NXP Women in Technology Scholar** — Top 75 nationally
+- 🤖 Exploring **AI/GenAI, backend development, and practical applications**
+ 
 
 
----
+## ☄️ Contribution Constellation
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/ish-g09/ish-g09/comet-graph/comet.svg"
+    alt="Ishika's GitHub Contribution Constellation"
+    width="100%"
+  />
+</p>
 
 ## 🛠️ Tech Stack
 
@@ -67,6 +69,7 @@
 </div>
 
 ---
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -76,7 +79,6 @@
   <a href="https://instagram.com/ishikagupta_916">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  
   <a href="https://www.codechef.com/users/ig_0906">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
@@ -86,7 +88,6 @@
   <a href="https://www.hackerrank.com/ig_valiente09">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
-  
   <a href="mailto:ig.valiente09@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -94,15 +95,14 @@
 
 ---
 
+<!--
 ## 🧊 Contribution Landscape
 
 <p align="center">
   <img
-    <img src="./profile-3d-contrib/profile-night-rainbow.svg"
+    src="./profile-3d-contrib/profile-night-rainbow.svg"
     alt="3D GitHub Contribution Landscape"
     width="70%"
   />
 </p>
-
-
-
+-->
