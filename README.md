@@ -92,21 +92,21 @@
   </a>
 </p>
 
+---
+
+---
+
 ## 🧊 Contribution Landscape
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ish-g09/ish-g09/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contribution Graph" width="100%" />
-</p>
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ish-g09&show_icons=true&hide_border=true&theme=radical" />
-  &nbsp;
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ish-g09&hide_border=true&theme=radical" />
+  <img
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg"
+    alt="3D GitHub Contribution Landscape"
+    width="70%"
+  />
 </p>
 
+---
 
-
-
-
+---
 
