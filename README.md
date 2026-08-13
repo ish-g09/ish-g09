@@ -94,8 +94,6 @@
 
 ---
 
----
-
 ## 🧊 Contribution Landscape
 
 <p align="center">
@@ -106,7 +104,5 @@
   />
 </p>
 
----
 
----
 
