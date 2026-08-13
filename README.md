@@ -92,10 +92,10 @@
   </a>
 </p>
 
-## 🐍 Contribution Trail
+## 🧊 Contribution Landscape
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ish-g09/ish-g09/output/github-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/ish-g09/ish-g09/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contribution Graph" width="100%" />
 </p>
 ## 📊 GitHub Stats
 
