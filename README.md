@@ -17,7 +17,7 @@
 
 - 🎓 Pre-final year **Computer Science undergraduate @ IIIT Gwalior**
 - 💼 Previously **Data Science Intern @ Aivion Limited**
-- 🧠 **450+ DSA problems solved**, with a focus on problem-solving and software engineering
+- 🧠 **500+ DSA problems solved**, with a focus on problem-solving and software engineering
 - 🏆 **NXP Women in Technology Scholar** : Top 75 nationally
 - 🤖 Exploring **AI/GenAI, backend development, and practical applications**
  
