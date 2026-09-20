@@ -1,5 +1,8 @@
-<h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=2000&color=FF61A6&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ishika+Gupta!&repeat=0" alt="Typing Intro" /> </h1>
 
+<h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=2000&color=FF61A6&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ishika+Gupta!&repeat=0" alt="Typing Intro" /> </h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ish-g09&label=Profile%20Views&color=FF61A6&style=flat-square" alt="Profile Views" />
+</p>
 <h3 align="center">
   <b> ✉️ Building with Code &nbsp;|&nbsp; Solving with DSA &nbsp;|&nbsp; Exploring AI 🤖 </b>
 </h3>
